@@ -6,7 +6,7 @@ google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Photography by Gregory Palermo"
-# subtitle: ""
+subtitle:
 author: "Gregory Palermo"
 header:
  title: "Photography"
@@ -14,8 +14,8 @@ header:
 footer:
  name: "Hi, I'm Greg, and I'm a graduate student and amateur photographer."
  bio: "Thanks for checking out my work!"
- # github:
-#web_design:
+ github: "Credit to Ram Patra for the [site template](https://github.com/rampatra/photography)."
+web_design: "AJ"
 social_urls:
   #facebook:
   twitter: "https://www.twitter.com/gregory_palermo"
