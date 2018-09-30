@@ -6,16 +6,16 @@ google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Photography by Gregory Palermo"
-subtitle: ""
+# subtitle: ""
 author: "Gregory Palermo"
 header:
  title: "Photography"
  subtitle: "by Gregory Palermo"
 footer:
- name: "Hey there, my name is Ram"
- bio: "*insert bio*"
- github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork rampatra's repo on github</a> ;)"
-web_design: "AJ"
+ name: "Hi, I'm Greg, and I'm a graduate student and amateur photographer."
+ bio: "Thanks for checking out my work!"
+ # github:
+#web_design:
 social_urls:
   #facebook:
   twitter: "https://www.twitter.com/gregory_palermo"
