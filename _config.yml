@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "http://palermog.github.io/photography"
+# baseurl: "photography"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics:
